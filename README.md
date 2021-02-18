@@ -80,8 +80,9 @@ In honest forests observations are randomly split into two halfs. Only the first
 
 ## Data
 
+I used the data from the GSS surveys. I got it from [Stanford's Digital Business Initiative repo](https://github.com/gsbDBI/ExperimentData/tree/master/Welfare/ProcessedData).
 
-
+The particular question I use is to test whether support for welfare spending by the government is influenced by the working we use to describe it.
 
 ## Packages
 
